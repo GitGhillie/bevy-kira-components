@@ -29,7 +29,7 @@ default-features = false
 features = ["bevy_asset"]
 
 [dev-dependencies]
-bevy = "0.13"
+bevy = "0.14.0-rc.2"
 
 [features]
 default = []
