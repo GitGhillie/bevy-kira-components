@@ -393,10 +393,9 @@ dependencies = [
 name = "bevy-kira-components"
 version = "0.1.1"
 dependencies = [
- "bevy 0.13.2",
  "bevy 0.14.0-rc.2",
  "bevy_kira_components_derive",
- "bevy_math 0.13.2",
+ "bevy_math 0.14.0-rc.2",
  "cpal",
  "kira",
  "serde",
@@ -2877,7 +2876,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "151665d9be52f9bb40fc7966565d39666f2d1e69233571b71b87791c7e0528b3"
 dependencies = [
  "bytemuck",
- "mint",
  "serde",
 ]
 
